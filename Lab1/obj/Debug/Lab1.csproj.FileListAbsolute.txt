@@ -1,0 +1,10 @@
+D:\Temporal\6to Ciclo\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Temporal\6to Ciclo\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Temporal\6to Ciclo\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Temporal\6to Ciclo\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\Temporal\6to Ciclo\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+D:\Temporal\6to Ciclo\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\Temporal\6to Ciclo\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\Temporal\6to Ciclo\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Temporal\6to Ciclo\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Temporal\6to Ciclo\Lab1\Lab1\obj\Debug\Lab1.pdb
