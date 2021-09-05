@@ -1,0 +1,11 @@
+D:\Temporal\6to Ciclo\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Temporal\6to Ciclo\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Temporal\6to Ciclo\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Temporal\6to Ciclo\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\Temporal\6to Ciclo\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+D:\Temporal\6to Ciclo\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\Temporal\6to Ciclo\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\Temporal\6to Ciclo\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Temporal\6to Ciclo\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Temporal\6to Ciclo\Lab3\Lab3\obj\Debug\Lab3.pdb
+D:\Temporal\6to Ciclo\Lab3\Lab3\obj\Debug\Lab3.Persona.resources
