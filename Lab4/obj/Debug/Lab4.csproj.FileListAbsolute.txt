@@ -1,0 +1,15 @@
+D:\Temporal\6to Ciclo\Lab3\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+D:\Temporal\6to Ciclo\Lab3\Lab4\obj\Debug\MainWindow.g.cs
+D:\Temporal\6to Ciclo\Lab3\Lab4\obj\Debug\App.g.cs
+D:\Temporal\6to Ciclo\Lab3\Lab4\obj\Debug\Lab4_MarkupCompile.cache
+D:\Temporal\6to Ciclo\Lab3\Lab4\obj\Debug\Lab4_MarkupCompile.lref
+D:\Temporal\6to Ciclo\Lab3\Lab4\bin\Debug\Lab4.exe.config
+D:\Temporal\6to Ciclo\Lab3\Lab4\bin\Debug\Lab4.exe
+D:\Temporal\6to Ciclo\Lab3\Lab4\bin\Debug\Lab4.pdb
+D:\Temporal\6to Ciclo\Lab3\Lab4\obj\Debug\MainWindow.baml
+D:\Temporal\6to Ciclo\Lab3\Lab4\obj\Debug\Lab4.g.resources
+D:\Temporal\6to Ciclo\Lab3\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\Temporal\6to Ciclo\Lab3\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\Temporal\6to Ciclo\Lab3\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\Temporal\6to Ciclo\Lab3\Lab4\obj\Debug\Lab4.exe
+D:\Temporal\6to Ciclo\Lab3\Lab4\obj\Debug\Lab4.pdb
