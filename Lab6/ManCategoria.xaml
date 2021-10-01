@@ -15,9 +15,9 @@
     </Window.Resources>
     <Grid Margin="0,0,0,26">
         <StackPanel Orientation="Vertical" VerticalAlignment="Top" Height="203" Margin="0,0,0,-34">
-            <StackPanel Margin="10" Orientation="Horizontal" Width="Max">
+            <StackPanel Margin="10" Orientation="Horizontal">
                 <Label Content="ID" />
-                <TextBox IsReadOnly="True" x:Name="txtId" VerticalAlignment="Center" AcceptsReturn="True" Width="130"/>
+                <TextBox IsReadOnly="True" x:Name="txtId" VerticalAlignment="Center" Width="130"/>
             </StackPanel>
             <StackPanel VerticalAlignment="Center" HorizontalAlignment="Stretch" Orientation="Horizontal" Margin="10">
                 <Label Content="Nombre" />
