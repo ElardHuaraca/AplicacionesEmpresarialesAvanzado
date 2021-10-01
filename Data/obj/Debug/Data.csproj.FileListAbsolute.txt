@@ -1,0 +1,9 @@
+D:\Temporal\6to Ciclo\Lab6\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+D:\Temporal\6to Ciclo\Lab6\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Temporal\6to Ciclo\Lab6\Data\bin\Debug\Data.dll
+D:\Temporal\6to Ciclo\Lab6\Data\bin\Debug\Data.pdb
+D:\Temporal\6to Ciclo\Lab6\Data\bin\Debug\Entity.dll
+D:\Temporal\6to Ciclo\Lab6\Data\bin\Debug\Entity.pdb
+D:\Temporal\6to Ciclo\Lab6\Data\obj\Debug\Data.csproj.CopyComplete
+D:\Temporal\6to Ciclo\Lab6\Data\obj\Debug\Data.dll
+D:\Temporal\6to Ciclo\Lab6\Data\obj\Debug\Data.pdb

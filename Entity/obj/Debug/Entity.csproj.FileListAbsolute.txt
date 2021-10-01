@@ -1,0 +1,6 @@
+D:\Temporal\6to Ciclo\Lab6\Entity\bin\Debug\Entity.dll
+D:\Temporal\6to Ciclo\Lab6\Entity\bin\Debug\Entity.pdb
+D:\Temporal\6to Ciclo\Lab6\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+D:\Temporal\6to Ciclo\Lab6\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\Temporal\6to Ciclo\Lab6\Entity\obj\Debug\Entity.dll
+D:\Temporal\6to Ciclo\Lab6\Entity\obj\Debug\Entity.pdb

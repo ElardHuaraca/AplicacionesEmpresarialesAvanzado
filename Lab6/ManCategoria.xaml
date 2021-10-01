@@ -1,0 +1,36 @@
+﻿<Window x:Class="Lab6.ManCategoria"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab6"
+        mc:Ignorable="d"
+        Title="ManCategoria" Height="226.316" Width="400">
+    <Window.Resources>
+        <Style TargetType="Label">
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+            <Setter Property="FontSize" Value="14"/>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="0,0,0,26">
+        <StackPanel Orientation="Vertical" VerticalAlignment="Top" Height="203" Margin="0,0,0,-34">
+            <StackPanel Margin="10" Orientation="Horizontal" Width="Max">
+                <Label Content="ID" />
+                <TextBox IsReadOnly="True" x:Name="txtId" VerticalAlignment="Center" AcceptsReturn="True" Width="130"/>
+            </StackPanel>
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Stretch" Orientation="Horizontal" Margin="10">
+                <Label Content="Nombre" />
+                <TextBox x:Name="txtNombre" Width="305" />
+            </StackPanel>
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Stretch" Orientation="Horizontal" Margin="10">
+                <Label Content="Descripcion" />
+                <TextBox x:Name="txtDescripcion" Width="283" />
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Stretch" Orientation="Horizontal" Margin="10">
+                <Button x:Name="btnGuardar" Click="btnGuardar_Click">Guardar</Button>
+                <Button x:Name="btnCerrar" Click="btnCerrar_Click">Cerrar</Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
