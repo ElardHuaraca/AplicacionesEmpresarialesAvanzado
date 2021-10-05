@@ -1,0 +1,18 @@
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Data\bin\Debug\Data.dll
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Data\bin\Debug\Data.pdb
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Data\bin\Debug\Entity.dll
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Data\bin\Debug\Entity.pdb
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Data\obj\Debug\Data.csproj.CopyComplete
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Data\obj\Debug\Data.dll
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Data\obj\Debug\Data.pdb
+C:\Users\Elard\Desktop\Lab7\Data\bin\Debug\Data.dll
+C:\Users\Elard\Desktop\Lab7\Data\bin\Debug\Data.pdb
+C:\Users\Elard\Desktop\Lab7\Data\bin\Debug\Entity.dll
+C:\Users\Elard\Desktop\Lab7\Data\bin\Debug\Entity.pdb
+C:\Users\Elard\Desktop\Lab7\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Elard\Desktop\Lab7\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Elard\Desktop\Lab7\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Elard\Desktop\Lab7\Data\obj\Debug\Data.dll
+C:\Users\Elard\Desktop\Lab7\Data\obj\Debug\Data.pdb

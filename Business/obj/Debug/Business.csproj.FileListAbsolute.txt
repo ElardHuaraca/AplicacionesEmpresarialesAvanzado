@@ -1,0 +1,22 @@
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Business\bin\Debug\Business.dll
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Business\bin\Debug\Business.pdb
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Business\bin\Debug\Data.dll
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Business\bin\Debug\Entity.dll
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Business\bin\Debug\Data.pdb
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Business\bin\Debug\Entity.pdb
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Business\obj\Debug\Business.csproj.CopyComplete
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Business\obj\Debug\Business.dll
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Business\obj\Debug\Business.pdb
+C:\Users\Elard\Desktop\Lab7\Business\bin\Debug\Business.dll
+C:\Users\Elard\Desktop\Lab7\Business\bin\Debug\Business.pdb
+C:\Users\Elard\Desktop\Lab7\Business\bin\Debug\Data.dll
+C:\Users\Elard\Desktop\Lab7\Business\bin\Debug\Entity.dll
+C:\Users\Elard\Desktop\Lab7\Business\bin\Debug\Data.pdb
+C:\Users\Elard\Desktop\Lab7\Business\bin\Debug\Entity.pdb
+C:\Users\Elard\Desktop\Lab7\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\Elard\Desktop\Lab7\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Elard\Desktop\Lab7\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\Elard\Desktop\Lab7\Business\obj\Debug\Business.dll
+C:\Users\Elard\Desktop\Lab7\Business\obj\Debug\Business.pdb

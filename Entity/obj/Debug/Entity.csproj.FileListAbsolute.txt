@@ -1,0 +1,6 @@
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Entity\bin\Debug\Entity.dll
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Entity\bin\Debug\Entity.pdb
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Entity\obj\Debug\Entity.dll
+D:\Users\Obed Chaca\source\repos\DesAEA_Lab07\Entity\obj\Debug\Entity.pdb
