@@ -1,0 +1,7 @@
+D:\Temporal\6to Ciclo\Lab8\Lab8\bin\Debug\Lab8.exe.config
+D:\Temporal\6to Ciclo\Lab8\Lab8\bin\Debug\Lab8.exe
+D:\Temporal\6to Ciclo\Lab8\Lab8\bin\Debug\Lab8.pdb
+D:\Temporal\6to Ciclo\Lab8\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+D:\Temporal\6to Ciclo\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\Temporal\6to Ciclo\Lab8\Lab8\obj\Debug\Lab8.exe
+D:\Temporal\6to Ciclo\Lab8\Lab8\obj\Debug\Lab8.pdb
