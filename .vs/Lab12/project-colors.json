@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8587610e-6723-426d-8f77-3c8a0b6caf58": {
+      "ProjectGuid": "8587610e-6723-426d-8f77-3c8a0b6caf58",
+      "DisplayName": "Lab12",
+      "ColorIndex": 0
+    },
+    "27152dab-cf44-498d-ada3-a1970bebd63c": {
+      "ProjectGuid": "27152dab-cf44-498d-ada3-a1970bebd63c",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "0f9021e8-d882-4a15-b62f-ed4cb5384ab9": {
+      "ProjectGuid": "0f9021e8-d882-4a15-b62f-ed4cb5384ab9",
+      "DisplayName": "Infraestructure",
+      "ColorIndex": 2
+    },
+    "49d8759d-7fef-4a56-af4a-4e5209f6cdc5": {
+      "ProjectGuid": "49d8759d-7fef-4a56-af4a-4e5209f6cdc5",
+      "DisplayName": "Service",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

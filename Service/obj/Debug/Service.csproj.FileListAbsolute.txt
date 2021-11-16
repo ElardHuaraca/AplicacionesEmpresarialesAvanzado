@@ -1,0 +1,17 @@
+D:\Temporal\6to Ciclo\Lab12\Service\bin\Debug\Service.dll.config
+D:\Temporal\6to Ciclo\Lab12\Service\bin\Debug\Service.dll
+D:\Temporal\6to Ciclo\Lab12\Service\bin\Debug\Service.pdb
+D:\Temporal\6to Ciclo\Lab12\Service\bin\Debug\Domain.dll
+D:\Temporal\6to Ciclo\Lab12\Service\bin\Debug\EntityFramework.dll
+D:\Temporal\6to Ciclo\Lab12\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Temporal\6to Ciclo\Lab12\Service\bin\Debug\Infraestructure.dll
+D:\Temporal\6to Ciclo\Lab12\Service\bin\Debug\Domain.pdb
+D:\Temporal\6to Ciclo\Lab12\Service\bin\Debug\Infraestructure.pdb
+D:\Temporal\6to Ciclo\Lab12\Service\bin\Debug\Infraestructure.dll.config
+D:\Temporal\6to Ciclo\Lab12\Service\bin\Debug\EntityFramework.xml
+D:\Temporal\6to Ciclo\Lab12\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Temporal\6to Ciclo\Lab12\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+D:\Temporal\6to Ciclo\Lab12\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\Temporal\6to Ciclo\Lab12\Service\obj\Debug\Service.csproj.CopyComplete
+D:\Temporal\6to Ciclo\Lab12\Service\obj\Debug\Service.dll
+D:\Temporal\6to Ciclo\Lab12\Service\obj\Debug\Service.pdb

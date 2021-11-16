@@ -1,0 +1,16 @@
+D:\Temporal\6to Ciclo\Lab12\Infraestructure\bin\Debug\Infraestructure.dll.config
+D:\Temporal\6to Ciclo\Lab12\Infraestructure\bin\Debug\Infraestructure.dll
+D:\Temporal\6to Ciclo\Lab12\Infraestructure\bin\Debug\Infraestructure.pdb
+D:\Temporal\6to Ciclo\Lab12\Infraestructure\bin\Debug\Domain.dll
+D:\Temporal\6to Ciclo\Lab12\Infraestructure\bin\Debug\EntityFramework.dll
+D:\Temporal\6to Ciclo\Lab12\Infraestructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\Temporal\6to Ciclo\Lab12\Infraestructure\bin\Debug\Domain.pdb
+D:\Temporal\6to Ciclo\Lab12\Infraestructure\bin\Debug\EntityFramework.xml
+D:\Temporal\6to Ciclo\Lab12\Infraestructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\Temporal\6to Ciclo\Lab12\Infraestructure\obj\Debug\Infraestructure.csproj.AssemblyReference.cache
+D:\Temporal\6to Ciclo\Lab12\Infraestructure\obj\Debug\Infraestructure.csproj.CoreCompileInputs.cache
+D:\Temporal\6to Ciclo\Lab12\Infraestructure\obj\Debug\Infraestructure.dll
+D:\Temporal\6to Ciclo\Lab12\Infraestructure\obj\Debug\Infraestructure.pdb
+D:\Temporal\6to Ciclo\Lab12\Infraestructure\obj\Debug\Infraestructure.Migrations.student.resources
+D:\Temporal\6to Ciclo\Lab12\Infraestructure\obj\Debug\Infraestructure.csproj.GenerateResource.cache
+D:\Temporal\6to Ciclo\Lab12\Infraestructure\obj\Debug\Infraestructure.csproj.CopyComplete

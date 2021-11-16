@@ -1,0 +1,5 @@
+D:\Temporal\6to Ciclo\Lab12\Domain\bin\Debug\Domain.dll
+D:\Temporal\6to Ciclo\Lab12\Domain\bin\Debug\Domain.pdb
+D:\Temporal\6to Ciclo\Lab12\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\Temporal\6to Ciclo\Lab12\Domain\obj\Debug\Domain.dll
+D:\Temporal\6to Ciclo\Lab12\Domain\obj\Debug\Domain.pdb
