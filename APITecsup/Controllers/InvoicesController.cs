@@ -30,7 +30,7 @@ namespace APITecsup.Controllers
             {
                 Number = request.Number,
                 Total = request.Total,
-                CustomerName = request.Customer.FirstName
+                CustomerName = db.Customers.Find(request.CustomerID).FirstName
             };
             return response;
         }
